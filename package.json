@@ -1960,6 +1960,7 @@
         "prettier-fix": "prettier 'src/**/*.ts*' --write && prettier 'build/**/*.js' --write",
         "clean": "gulp clean",
         "updateBuildNumber": "gulp updateBuildNumber",
+        "addExtensionDependencies": "gulp addExtensionDependencies",
         "verifyBundle": "gulp verifyBundle",
         "webpack": "webpack"
     },
